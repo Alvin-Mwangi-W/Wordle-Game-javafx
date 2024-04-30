@@ -1,0 +1,158 @@
+Guess: Radar
+Guess: Tiger
+Guess:Chair
+Guess:Drape
+Guess: chair
+Guess: latch
+Guess: latch
+Guess: latch
+Guess: theww
+Guess: flute
+Guess: hecbe
+Guess: plame
+Guess: maple
+Guess: radar
+Guess: maple
+Guess: radar
+Guess: radar
+Guess: melon
+Guess: lemon
+Guess: radar
+Guess: merab
+Guess: fluke
+Guess: flute
+Guess: fluke
+Guess: flukw
+Guess: flute
+Guess: beach
+Guess: flute
+Guess: ambez
+Guess: amber
+Guess: radar
+Guess: lemon
+ALvin -> Guess: Words
+ALvin -> Guess: amber
+ALvin -> Guess: radar
+ALvin -> Guess: tiger
+Alvin -> Guess: radar
+adf -> Guess: tiger
+adfa -> Guess: radar
+adfa -> Guess: mango
+adfa -> Guess: lemon
+sdfads -> Guess: tiger
+adad -> Guess: lemon
+adad -> Guess: radar
+adad -> Guess: mango
+adad -> Guess: olive
+adad -> Guess: maple
+Alvin -> Guess: radar
+Alvin -> Guess: latch
+Alvin -> Guess: mango
+Alvin -> Guess: lemon
+adfa -> Guess: radar
+adfa -> Guess: latch
+adfa -> Guess: lemon
+adfa -> Guess: melon
+adfa -> Guess: chair
+adfa -> Guess: lemon
+adfa -> Guess: radar
+adfa -> Guess: mango
+adfa -> Guess: grape
+adfa -> Guess: tiger
+adfa -> Guess: radar
+adfa -> Guess: radar
+adfa -> Guess: lemon
+adfa -> Guess: mango
+adfa -> Guess: banjo
+adfa -> Guess: bread
+adfa -> Guess: break
+adfa -> Guess: beach
+kjadf -> Guess: radar
+afd -> Guess: tiger
+adfa -> Guess: tiger
+af -> Guess: lemon
+adf -> Guess: lemon
+afda -> Guess: radar
+afda -> Guess: radar
+afda -> Guess: lemon
+afda -> Guess: bread
+kjjh -> Guess: lemon
+adfa -> Guess: bread
+adfa -> Guess: Lemon
+adfa -> Guess: radar
+adfa -> Guess: melon
+adfa -> Guess: mello
+adfa -> Guess: mango
+adfa -> Guess: mallo
+adfa -> Guess: maple
+adfa -> Guess: radar
+adfa -> Guess: tiger
+adfa -> Guess: drape
+afa -> Guess: radar
+afa -> Guess: amber
+afa -> Guess: tiger
+afa -> Guess: drape
+afa -> Guess: maple
+afa -> Guess: flute
+adsfa -> Guess: radar
+ljgh -> Guess: chair
+ljgh -> Guess: lemon
+ljgh -> Guess: leach
+ljgh -> Guess: flute
+ljgh -> Guess: radar
+ljgh -> Guess: amber
+Paul -> Guess: radar0
+Paul -> Guess: latch0
+Paul -> Guess: latch0
+Paul -> Guess: beach0
+Kev -> Guess: radar0
+Kev -> Guess: latch0
+Kev -> Guess: mango0
+Kev -> Guess: maple0
+afadf -> Guess: radar0
+afadf -> Guess: latch0
+afadf -> Guess: latch10
+adfa -> Guess: bread0
+adfa -> Guess: lemon0
+adfa -> Guess: amber10
+adfa -> Guess: drape10
+adfa -> Guess: chair20
+adfa -> Guess: radar20
+adfa -> Guess: tiger20
+afdad -> Guess: radar0
+afdad -> Guess: bread0
+afdad -> Guess: drape0
+afdad -> Guess: drape0
+afdad -> Guess: beach0
+afdad -> Guess: amber10
+afdad -> Guess: tiger10
+afdad -> Guess: chair10
+Name -> Guess: radar0
+Name -> Guess: bread0
+Name -> Guess: beach0
+JOHN -> Guess: radar0
+JOHN -> Guess: lemon0
+JOHN -> Guess: melon0
+DOE -> Guess: radar0
+DOE -> Guess: lemon0
+DOE -> Guess: tiger10
+DOE -> Guess: bread10
+DOE -> Guess: latch10
+DOE -> Guess: beach10
+JOHN -> Guess: radar0
+JOHN -> Guess: mango0
+JOHN -> Guess: latch0
+JOHN -> Guess: bread10
+JOHN -> Guess: beach10
+JOHN -> Guess: radar20
+JOHN -> Guess: tiger20
+JOHN -> Guess: bread30
+JOHN -> Guess: latch30
+JOHN -> Guess: maple30
+JOHN -> Guess: apple30
+JOHN -> Guess: radar30
+JOHN -> Guess: radar40
+JOHN -> Guess: latch40
+JOHN -> Guess: beach40
+JOHN -> Guess: bread40
+JOHN -> Guess: leach40
